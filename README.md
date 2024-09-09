@@ -1,1 +1,2 @@
-# NETFLIX_CLONE
+# NETFLIX CLONE
+using HTML and CSS only
